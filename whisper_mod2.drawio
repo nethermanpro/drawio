@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:20:53.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="65JXvcYpYQ46Z9WGglCp" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:22:16.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cuG2BQAcErIg8fRCFU3U" version="20.8.3" type="github">
   <diagram id="LzPSjrBE9QoCUfWx3sxA" name="第 1 页">
     <mxGraphModel dx="1303" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -157,8 +157,8 @@
         <mxCell id="XcR_hyQz9Lz4EqXfj8F2-1" value="whsiper Encoder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="490" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6upp-07kbXE14_Z9a57g-33" value="translation decoder input: &amp;lt;translate&amp;gt;&amp;nbsp; &amp;lt;en_XX&amp;gt;&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; ...&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; &amp;lt;eos&amp;gt;&lt;br&gt;asr decoder input: &amp;lt;asr&amp;gt;&amp;nbsp; &amp;lt;en_XX&amp;gt;&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; ...&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; &amp;lt;eos&amp;gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="349" y="710" width="471" height="40" as="geometry" />
+        <mxCell id="6upp-07kbXE14_Z9a57g-33" value="Decoder input for translation: &amp;lt;translate&amp;gt;&amp;nbsp; &amp;lt;en_XX&amp;gt;&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; ...&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; &amp;lt;eos&amp;gt;&lt;br&gt;Decoder input for ASR: &amp;lt;asr&amp;gt;&amp;nbsp; &amp;lt;en_XX&amp;gt;&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; ...&amp;nbsp; &amp;lt;text&amp;gt;&amp;nbsp; &amp;lt;eos&amp;gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="471" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
