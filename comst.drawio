@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T03:30:03.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="lSAi5hAhoS_EIUfpmE8t" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T03:31:34.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="N8BqWFNfuGmwK6F1Z-c7" version="21.2.9" type="github">
   <diagram id="LzPSjrBE9QoCUfWx3sxA" name="第 1 页">
     <mxGraphModel dx="1740" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -647,10 +647,10 @@
             <mxPoint x="711" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YD-rrx21hTcp6MJ4kUP3-19" value="Whisper Encoder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YD-rrx21hTcp6MJ4kUP3-19" value="Speech Transformer Blocks" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="610" y="501" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YD-rrx21hTcp6MJ4kUP3-20" value="mBART Encoder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="YD-rrx21hTcp6MJ4kUP3-20" value="Language Transformer Blocks" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="610" y="360" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YD-rrx21hTcp6MJ4kUP3-27" value="Adapter" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;rotation=0;rounded=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
