@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T03:34:16.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="uBwwfRNDXI4NKpa4-A7-" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T09:09:33.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="gshKEBc87SLlKKlipSTc" version="21.2.9" type="github">
   <diagram id="LzPSjrBE9QoCUfWx3sxA" name="第 1 页">
     <mxGraphModel dx="1740" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-8J8TfO5ZDooG7sX6QlC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.935;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="-8J8TfO5ZDooG7sX6QlC-8" source="3etmsCCcuOaZ5D5WFXKc-2">
+        <mxCell id="-8J8TfO5ZDooG7sX6QlC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.935;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3etmsCCcuOaZ5D5WFXKc-2" target="-8J8TfO5ZDooG7sX6QlC-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="300" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
@@ -496,10 +496,10 @@
         <mxCell id="-8J8TfO5ZDooG7sX6QlC-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="206" y="1080" width="454" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-8J8TfO5ZDooG7sX6QlC-49" value="Audio Hidden Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-8J8TfO5ZDooG7sX6QlC-49" value="Speech embedding from the adapter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="245" y="1109" width="147" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-8J8TfO5ZDooG7sX6QlC-50" value="Masked Transcription Embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-8J8TfO5ZDooG7sX6QlC-50" value="Masked transcription embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="499" y="1109" width="144.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8J8TfO5ZDooG7sX6QlC-51" value="" style="endArrow=classic;html=1;curved=1;" parent="1" edge="1">
@@ -587,7 +587,7 @@
           <mxGeometry x="579" y="807" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VN0xsomqN-XugNY6HPo4-4" value="$$e^s$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="375" y="1109" width="60" height="30" as="geometry" />
+          <mxGeometry x="353" y="1116" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VN0xsomqN-XugNY6HPo4-5" value="$$e^{x&#39;}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="590" y="1116" width="60" height="30" as="geometry" />
@@ -631,13 +631,13 @@
         <mxCell id="YD-rrx21hTcp6MJ4kUP3-39" value="&amp;lt;En&amp;gt; I will definitely do it.&amp;lt;/s&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="611" y="303" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEB9gz2ScH5CExRcQ7-f-1" value="$$\hat{a^s_k}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MEB9gz2ScH5CExRcQ7-f-1" value="$$\hat{a^s_k}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="217" y="861" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEB9gz2ScH5CExRcQ7-f-2" value="$$a^s_k$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="MEB9gz2ScH5CExRcQ7-f-2" value="$$a^s_k$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="152" y="864" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEB9gz2ScH5CExRcQ7-f-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="MEB9gz2ScH5CExRcQ7-f-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20" y="360" width="176" height="149.48" as="geometry" />
         </mxCell>
         <mxCell id="3etmsCCcuOaZ5D5WFXKc-16" value="x 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeColor=#d6b656;labelPosition=right;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingTop=-27;spacingLeft=-26;" parent="MEB9gz2ScH5CExRcQ7-f-4" vertex="1">
